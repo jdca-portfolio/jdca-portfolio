@@ -39,10 +39,10 @@ const WEEKS = [
         company: "Fluicell",
         ticker: "FLUI.ST",
         penny: true,
-        sentiment: "Positive",
-        topic: "Q1 2026 Earnings Beat — Stock Surges +58%",
-        summary: "Fluicell's stock surged approximately +58% into and around its Q1 2026 earnings release on May 11. The company's 2024 revenue grew 60% YoY to SEK 5.35M, and the Q1 results appear to have continued that momentum. The stock has now more than doubled YTD (+164%), making it the portfolio's best-performing holding this week and for the year.",
-        takeaway: "The size of the move relative to the company's micro-cap status and thin trading means any signal here is hard to interpret fundamentally. The YTD gain of +164% is extraordinary for a company at this revenue stage. Watch for whether the earnings release provides any catalyst explanation or if this is speculative momentum.",
+        sentiment: "Neutral",
+        topic: "Stock Surges +58% Ahead of Q1 2026 Earnings Release",
+        summary: "FLUI.ST jumped ~58% into its Q1 2026 earnings release on May 11. The company grew 2024 revenue 60% YoY to SEK 5.35M and the market appears to be pricing in continued momentum. Now up +164% YTD — the best-performing holding in the portfolio.",
+        takeaway: "Hard to read fundamentally at this market cap and liquidity level. The YTD gain is extraordinary for a pre-revenue-scale company. Watch whether the Q1 report provides a real catalyst or this fades.",
         valImpact: true
       },
       {
@@ -50,10 +50,10 @@ const WEEKS = [
         company: "NextCell Pharma",
         ticker: "NXTCL.ST",
         penny: true,
-        sentiment: "Positive",
-        topic: "Commercial Launch of NextCell-Cord RUO with FUJIFILM Biosciences",
-        summary: "NextCell Pharma and FUJIFILM Biosciences announced the commercial launch of NextCell-Cord RUO — research-use-only umbilical cord-derived mesenchymal stromal cells paired with FUJIFILM\'s PRIME-XV MSC Expansion medium. This is NextCell\'s first commercial product, providing researchers a standardized MSC source for immunology and regenerative medicine research. NXTCL.ST gained ~18.5% on the week.",
-        takeaway: "First commercial product is a meaningful milestone for a micro-cap company still building revenue. The FUJIFILM partnership gives the product distribution credibility. The stock is now +70% YTD — thin liquidity means the move may be exaggerated, but the underlying news is genuinely positive.",
+        sentiment: "Neutral",
+        topic: "First Commercial Product Launched with FUJIFILM Biosciences",
+        summary: "NextCell and FUJIFILM Biosciences announced the commercial launch of NextCell-Cord RUO — umbilical cord-derived MSCs paired with FUJIFILM's PRIME-XV expansion medium. It's NextCell's first commercial product. NXTCL.ST gained ~18.5% on the week.",
+        takeaway: "First commercial product is a real milestone for a company at this stage. The FUJIFILM partnership adds distribution credibility. Stock is now +70% YTD — thin float means the move is amplified.",
         valImpact: true
       },
       {
@@ -62,9 +62,9 @@ const WEEKS = [
         ticker: "HUMA",
         penny: true,
         sentiment: "Negative",
-        topic: "Nasdaq Minimum Bid Compliance Notice — Q1 Results Due May 13",
-        summary: "Humacyte disclosed receipt of a Nasdaq notice that its stock had traded below the $1.00 minimum bid requirement for 30 consecutive business days ending May 1, 2026. The company has until November 2, 2026 to regain compliance. Despite the notice, HUMA gained ~11.4% this week, closing at $1.03 — just above the threshold. Q1 2026 financial results are expected May 13.",
-        takeaway: "The bounce above $1.00 is notable and may partly reflect the market pricing in the likelihood of compliance. The Nasdaq notice is a real overhang — if the stock drops below $1.00 again for a sustained period the listing risk becomes material. The May 13 earnings call is the next real catalyst, alongside the V012 hemodialysis data still expected in June.",
+        topic: "Nasdaq Minimum Bid Notice Received — Stock Bounces Above $1",
+        summary: "Humacyte disclosed a Nasdaq notice after trading below $1.00 for 30 consecutive days ending May 1. The company has until November 2, 2026 to regain compliance. Despite the notice, HUMA gained ~11.4%, closing at $1.03. Q1 results are due May 13.",
+        takeaway: "The bounce above $1.00 is encouraging but the listing risk is real if the stock can't hold the level. May 13 earnings and the V012 hemodialysis interim data in June remain the catalysts that would actually change the narrative.",
         valImpact: true
       },
       {
@@ -72,10 +72,10 @@ const WEEKS = [
         company: "Novo Nordisk",
         ticker: "NVO",
         penny: false,
-        sentiment: "Positive",
-        topic: "Q1 2026 Earnings Beat — Oral Wegovy Crosses 2M U.S. Prescriptions, Guidance Raised",
-        summary: "Novo Nordisk reported Q1 2026 EPS of $1.04, beating consensus of $0.87 by ~19%, on constant-currency sales growth of 32%. Oral Wegovy now accounts for 65% of all new U.S. GLP-1 prescriptions and crossed 2 million prescriptions since launch — the strongest-ever GLP-1 volume launch in U.S. history. Full-year 2026 guidance was improved to -4% to -12% adjusted operating profit decline (from -5% to -13% prior).",
-        takeaway: "This is a strong reversal of the narrative — NVO has been one of the portfolio\'s biggest laggards YTD (-4.4%), but the oral Wegovy traction is a genuine positive surprise. 65% of new GLP-1 prescriptions going to the oral form changes the competitive dynamic vs. Lilly. The stock gained ~5.7% on the week.",
+        sentiment: "Negative",
+        topic: "Q1 Beat — Oral Wegovy Crosses 2M U.S. Prescriptions, Guidance Raised",
+        summary: "Novo reported Q1 EPS of $1.04 vs. $0.87 consensus on 32% constant-currency sales growth. Oral Wegovy now accounts for 65% of all new U.S. GLP-1 prescriptions and crossed 2M prescriptions since launch. Full-year guidance improved slightly.",
+        takeaway: "The oral Wegovy traction is a real positive surprise — 65% of new GLP-1 scripts is a stronger position than the market expected vs. Foundayo. NVO is still down ~4.4% YTD but this was a clean beat. Stock gained ~5.7%.",
         valImpact: true
       },
       {
@@ -83,10 +83,10 @@ const WEEKS = [
         company: "NewcelX",
         ticker: "NCEL",
         penny: true,
-        sentiment: "Positive",
-        topic: "No New Catalyst — Pullback After Prior Weeks\' Surge",
-        summary: "NCEL fell ~9.5% with no new company-specific news this week. The stock has been consolidating after its extraordinary +59% week (April 27). The NCEL-101 / tegoprubart T1D collaboration with Eledon continues progressing toward IND-enabling milestones. The company is still up ~80% YTD.",
-        takeaway: "Standard consolidation after a big run. The underlying collaboration with ELDN is still active, and the YTD gain of ~80% is substantial. Nothing fundamental changed this week — the pullback is technical.",
+        sentiment: "Neutral",
+        topic: "No New Catalyst — Consolidating After Prior Weeks' Run",
+        summary: "NCEL fell ~9.5% with no new company-specific news. Standard consolidation after the +59% week in late April. The NCEL-101 / tegoprubart T1D collaboration with Eledon continues progressing. Still up ~80% YTD.",
+        takeaway: "Nothing fundamental changed. The pullback is technical after a big run.",
         valImpact: false
       },
       {
@@ -94,10 +94,10 @@ const WEEKS = [
         company: "Genprex",
         ticker: "GNPX",
         penny: true,
-        sentiment: "Positive",
-        topic: "ASGCT Data on GPX-002 Diabetes Gene Therapy — Stock Fell Despite Positive News",
-        summary: "Genprex announced collaborators will present positive preclinical data on GPX-002 (Pdx1/MafA gene therapy for Type 2 Diabetes) at the ASGCT Annual Meeting (May 11–15), showing reversal of hyperglycemia in T2D mouse models. A clinical biomarker abstract on Reqorsa (lung cancer) was also accepted for ASCO 2026. Despite two positive announcements, GNPX fell ~8% on the week — now down ~51% YTD.",
-        takeaway: "The disconnect between positive news and negative stock action is typical for micro-caps where liquidity dynamics dominate. GPX-002 is preclinical and ASCO/ASGCT presentations don\'t move the needle on their own at this stage. The Reqorsa lung cancer program remains the primary commercial asset.",
+        sentiment: "Neutral",
+        topic: "Fell Despite Positive ASGCT Data on GPX-002",
+        summary: "Collaborators will present positive GPX-002 preclinical data (reversal of hyperglycemia in T2D mouse models) at ASGCT May 11-15. A Reqorsa biomarker abstract was also accepted for ASCO. GNPX fell ~8% regardless — now down ~51% YTD.",
+        takeaway: "Typical micro-cap disconnect between news and price. Preclinical conference presentations don't move the needle at this stage. Reqorsa clinical data remains the primary asset to watch.",
         valImpact: false
       },
       {
@@ -107,8 +107,8 @@ const WEEKS = [
         penny: true,
         sentiment: "Neutral",
         topic: "No Catalyst / Thin Volume Drift",
-        summary: "SEOVF fell ~7.7% with no company-specific news in very thin trading. Sernova\'s Cohort C of its Cell Pouch Phase 1/2 T1D trial was expected to initiate in H1 2026 pending funding; no clinical update was issued this week. The stock remains up ~33% YTD.",
-        takeaway: "Standard micro-cap noise with no news. The Cell Pouch trial update remains the key catalyst to watch.",
+        summary: "SEOVF fell ~7.7% with no company-specific news in thin trading. Cohort C of the Cell Pouch Phase 1/2 T1D trial is expected to initiate in H1 2026 pending additional funding. Still up ~33% YTD.",
+        takeaway: "Standard micro-cap noise. The Cohort C trial update is the catalyst to watch.",
         valImpact: false
       }
     ]
