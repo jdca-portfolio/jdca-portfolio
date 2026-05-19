@@ -1,6 +1,6 @@
 const WEEKS = [
   
-    {
+  {
     label: "Week of 05/18/2026",
     asOf:"05/18/2026",
     stats: {
@@ -124,7 +124,7 @@ const WEEKS = [
       }
     ]
   },
-{
+  {
     label: "Week of 05/11/2026",
     asOf:"05/11/2026",
     stats: {
