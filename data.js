@@ -40,8 +40,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Surges +43% / Best Weekly Performer — Now +334% YTD",
-        summary:"FLUI.ST gained ~43.2% this week, extending an extraordinary run that now leaves it up ~334% YTD and the single best-performing holding in the portfolio. The move follows the company's Q1 2026 earnings release earlier in May and continued momentum in its Nexocyte universal tissue-production platform. No new regulatory or financing news was announced during the week. Average trading volume remains extremely thin relative to the size of the move.",
-        takeaway:"The gain is very hard to read fundamentally — Fluicell's market cap is only ~$7M and average daily volume is minimal, so the percentage moves are amplified by an extremely thin float. The +334% YTD figure is remarkable for a pre-commercial-scale company but says more about liquidity than about a re-rating of the underlying science. Watch for whether any concrete Nexocyte or type 1 diabetes program update arrives to justify the price, or whether this fades as quickly as it rose.",
+        summary:"FLUI.ST gained ~43.2% this week, the portfolio's best performer, extending a run that now leaves it up ~334% YTD. No new regulatory or financing news was announced. Average volume is extremely thin relative to the size of the move.",
+        takeaway:"Very hard to read fundamentally — at a ~$7M market cap with minimal liquidity, the move reflects thin-float dynamics more than a re-rating. Watch for a concrete Nexocyte or T1D program update to justify the price.",
         valImpact: true
       },
       {
@@ -51,8 +51,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +19% / Continued Momentum After FUJIFILM Product Launch",
-        summary:"NXTCL.ST gained ~19.4% this week, building on the prior commercial launch of NextCell-Cord RUO with FUJIFILM Biosciences. No new company-specific catalyst was announced during the week. The stock is now up ~73% YTD. As with the portfolio's other Nasdaq First North micro-caps, average volume is thin and the move is amplified by a small float.",
-        takeaway:"The momentum looks like a continuation of the re-rating that began with the first commercial product rather than a response to fresh news. The FUJIFILM partnership gave the company distribution credibility, but at this market cap the swings will stay large in both directions. Watch for any update on early NextCell-Cord RUO uptake or the ProTrans clinical program.",
+        summary:"NXTCL.ST gained ~19.4%, building on the prior NextCell-Cord RUO commercial launch with FUJIFILM Biosciences. No new catalyst this week. Now up ~73% YTD on thin volume.",
+        takeaway:"Momentum continuation rather than fresh news. The FUJIFILM partnership added distribution credibility, but swings stay large at this float. Watch for early RUO uptake or ProTrans clinical progress.",
         valImpact: false
       },
       {
@@ -62,8 +62,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Negative",
         topic:"Stock Rebounds +12.9% / Holding Above $1 After Nasdaq Bid Notice",
-        summary:"HUMA gained ~12.9% this week, closing at ~$1.05 and continuing to recover above the $1.00 threshold after the Nasdaq minimum-bid-price notice disclosed earlier this month. The company has until November 2, 2026 to regain compliance. No new clinical or financing news was announced during the week. The stock is now up ~9% YTD after a difficult start to the year.",
-        takeaway:"Holding above $1.00 buys breathing room on the listing-compliance question, but the level is fragile and the bounce is not yet a fundamental turnaround. The catalysts that would actually change the narrative — the V012 hemodialysis access program and progress on the ATEV commercial ramp — remain the things to watch. Sentiment stays Negative until the listing risk is clearly behind the company.",
+        summary:"HUMA gained ~12.9%, closing ~$1.05 and holding above $1.00 after the Nasdaq minimum-bid notice (compliance deadline November 2, 2026). No new clinical or financing news. Now up ~9% YTD.",
+        takeaway:"Holding above $1.00 eases listing-compliance pressure, but the level is fragile and not yet a turnaround. The V012 hemodialysis program and ATEV commercial ramp remain the real catalysts; sentiment stays Negative.",
         valImpact: true
       },
       {
@@ -73,8 +73,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +12.2% / Sharp Bounce Off Multi-Year Lows",
-        summary:"EVO gained ~12.2% this week, a sharp bounce after an extended slide that had pushed the stock near its 52-week low of $2.31. No new deal, clinical, or financing news was announced. The rebound came on notably light volume — average daily volume over the last five days was well below the 100-day average. EVO remains down ~2% YTD despite the weekly gain.",
-        takeaway:"The size of the move plus the thin volume points to a technical bounce off oversold levels rather than a catalyst-driven recovery. The underlying Just-Evotec Biologics and drug-discovery platform retains real value, but the market is still waiting for evidence that the post-restructuring strategy is converting into revenue. A genuine partnership announcement or positive quarterly commentary would be needed to confirm a turn.",
+        summary:"EVO gained ~12.2%, a sharp bounce off levels near its 52-week low of $2.31. No new deal, clinical, or financing news, and volume was well below the 100-day average. Still down ~2% YTD.",
+        takeaway:"The thin-volume move points to a technical bounce off oversold levels, not a catalyst-driven recovery. The Just-Evotec Biologics platform has value, but a real partnership or positive quarterly commentary is needed to confirm a turn.",
         valImpact: false
       },
       {
@@ -84,8 +84,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Gains +6.7% / No Company-Specific Catalyst",
-        summary:"CELZ rose ~6.7% this week with no specific company catalyst identified. The company continues to advance its CELZ-201 (AlloStem) program in type 1 diabetes and its broader regenerative-medicine pipeline. No new regulatory, clinical, or financing updates were announced. The stock is now up ~22% YTD. Average volume remains very thin at this micro-cap level.",
-        takeaway:"A modest gain on no news — typical micro-cap drift rather than a fundamental signal. The CELZ-201 type 1 diabetes program remains the key value driver and the thesis is unchanged this week. Watch for any enrollment or data update on the AlloStem program.",
+        summary:"CELZ rose ~6.7% with no specific catalyst identified. The CELZ-201 (AlloStem) T1D program continues; no regulatory, clinical, or financing updates. Now up ~22% YTD on thin volume.",
+        takeaway:"Typical micro-cap drift on no news. The CELZ-201 T1D program remains the key value driver — watch for an enrollment or data update.",
         valImpact: false
       },
       {
@@ -95,8 +95,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls ~8.3% / Worst Weekly Performer — No New Catalyst",
-        summary:"SEOVF fell ~8.3% this week, making it the worst weekly performer in the portfolio, with no company-specific news identified. The decline reverses part of a prior thin-volume run. The company's Cell Pouch System Phase 1/2 trial in type 1 diabetes continues, with Cohort C expected to initiate pending additional funding. No regulatory, clinical, or financing updates were announced. The stock remains up ~22% YTD.",
-        takeaway:"Pure thin-float drift in the absence of news — Sernova's market cap is only ~$39M and average volume is very low, so the stock swings sharply in both directions. Nothing changed fundamentally this week. The initiation of Cohort C of the Cell Pouch T1D trial remains the catalyst that matters, and the funding needed to start it is the key gating item to watch.",
+        summary:"SEOVF fell ~8.3%, the portfolio's worst performer, with no company-specific news. The Cell Pouch Phase 1/2 T1D trial continues, with Cohort C pending additional funding. Still up ~22% YTD.",
+        takeaway:"Pure thin-float drift — at a ~$39M cap with low volume, the stock swings sharply both ways. Nothing changed fundamentally. Cohort C initiation, and the funding that gates it, is the catalyst to watch.",
         valImpact: false
       },
       {
@@ -106,8 +106,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Slips ~3.4% / Consolidating After Large YTD Run",
-        summary:"IPSC fell ~3.4% this week with no new company-specific news. The decline is a modest pullback after an exceptional run that still leaves the stock up ~127% YTD — one of the strongest performers in the portfolio. The company continues to advance its allogeneic iPSC-derived cell therapy pipeline. No regulatory, clinical, or financing updates were announced during the week.",
-        takeaway:"A small give-back after a very large move — nothing fundamental changed. The +127% YTD gain reflects renewed interest in the iPSC-derived allogeneic platform, and a single down week does not challenge that. Watch for any clinical or partnership update that would either confirm the re-rating or expose it as having moved ahead of the data.",
+        summary:"IPSC fell ~3.4%, a modest pullback after a run that still leaves it up ~127% YTD. The allogeneic iPSC-derived cell therapy pipeline continues; no regulatory, clinical, or financing updates this week.",
+        takeaway:"A small give-back after a big move — nothing fundamental changed. The +127% YTD reflects renewed interest in the iPSC platform. Watch for a clinical or partnership update to confirm or test the re-rating.",
         valImpact: false
       },
       {
@@ -117,8 +117,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls ~1.6% / Quiet Week, No New Catalyst",
-        summary:"NCEL fell ~1.6% this week on no company-specific news — a quiet consolidation week. The NCEL-101 / tegoprubart collaboration with Eledon in type 1 diabetes continues to progress. No regulatory, clinical, or financing updates were announced. Despite the small weekly decline the stock remains up ~66% YTD. Average volume is extremely thin.",
-        takeaway:"A minor down week with nothing to read into fundamentally. The Eledon tegoprubart collaboration remains the key program and the thesis is intact. At this liquidity level, week-to-week moves are mostly noise — the next real signal would be a clinical or collaboration update.",
+        summary:"NCEL fell ~1.6% on no company-specific news. The NCEL-101 / tegoprubart T1D collaboration with Eledon continues. Still up ~66% YTD on extremely thin volume.",
+        takeaway:"A minor down week with nothing to read into. The Eledon tegoprubart collaboration remains the key program — at this liquidity level, weekly moves are mostly noise.",
         valImpact: false
       },
       {
@@ -128,8 +128,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls ~1.1% / Continued Weakness — Down ~53% YTD",
-        summary:"GNPX fell ~1.1% this week, extending a long downtrend that has left the stock down ~53% YTD and trading near its 52-week low. No new company-specific news was announced. The company continues to advance its Reqorsa (quaratusugene ozeplasmid) oncology program and its GPX-002 diabetes gene-therapy work. Average daily volume over the last five days was sharply below the 100-day average.",
-        takeaway:"The slide reflects an ongoing sentiment overhang rather than a single new negative. With the stock near 52-week lows and YTD performance deeply negative, the market is clearly skeptical. Reqorsa clinical progress remains the primary asset that could change the narrative — until there is a real catalyst, low-volume drift lower is the path of least resistance.",
+        summary:"GNPX fell ~1.1%, extending a downtrend that has it near its 52-week low and down ~53% YTD. No new news; volume well below the 100-day average. Reqorsa and GPX-002 programs continue.",
+        takeaway:"An ongoing sentiment overhang, not a new negative. With the stock near 52-week lows, the market is clearly skeptical. Reqorsa clinical progress is the main thing that could change the narrative.",
         valImpact: false
       },
       {
@@ -139,8 +139,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Slips ~0.6% / Quiet Week for the Large-Cap Anchor",
-        summary:"VRTX fell ~0.6% this week, essentially flat, with no company-specific catalyst announced. Vertex continues to advance its diversified pipeline, with the CF franchise, the Casgevy launch, and the non-opioid pain program suzetrigine remaining the key commercial and clinical drivers. The stock is down ~4% YTD. Volume was slightly elevated versus the 100-day average but the price move was minimal.",
-        takeaway:"A non-event week for the portfolio's most stable holding. Vertex's underlying franchise — anchored by CF and supplemented by Casgevy and the suzetrigine pain opportunity — is unchanged, and a fractional decline carries no fundamental signal. Sentiment stays Positive on the strength of the diversified pipeline. Pipeline readouts and Casgevy uptake remain the events to watch.",
+        summary:"VRTX fell ~0.6%, essentially flat, with no company-specific catalyst. The CF franchise, Casgevy launch, and suzetrigine pain program remain the key drivers. Down ~4% YTD.",
+        takeaway:"A non-event week for the portfolio's most stable holding — a fractional decline carries no signal. Sentiment stays Positive on the diversified pipeline; Casgevy uptake and pipeline readouts are the events to watch.",
         valImpact: false
       }
     ]
