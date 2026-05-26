@@ -51,8 +51,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +19% / Continued Momentum After FUJIFILM Product Launch",
-        summary:"NXTCL.ST gained ~19.4%, extending momentum from the NextCell-Cord RUO launch with FUJIFILM Biosciences. No new catalyst this week; now up ~73% YTD on thin volume.",
-        takeaway:"Momentum continuation, not fresh news. The FUJIFILM tie-up adds credibility, but swings stay large at this float. Watch for early RUO uptake or ProTrans clinical progress.",
+        summary:"NXTCL.ST gained ~19.4%, extending momentum from the NextCell research use only (RUO) launch with FUJIFILM Biosciences. No new catalyst this week; now up ~73% YTD on thin volume.",
+        takeaway:"Momentum continuation, not fresh news. The FUJIFILM tie-up adds credibility, but swings stay large. Watch for early RUO uptake or ProTrans clinical progress.",
         valImpact: false
       },
       {
@@ -73,8 +73,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls ~8.3% / Worst Weekly Performer — No New Catalyst",
-        summary:"SEOVF fell ~8.3%, the portfolio's worst performer, with no company-specific news. The Cell Pouch Phase 1/2 T1D trial continues, with Cohort C pending funding; still up ~22% YTD.",
-        takeaway:"Pure thin-float drift — at a ~$39M cap, the stock swings sharply both ways with nothing fundamental changing. Cohort C initiation, and the funding that gates it, is the catalyst to watch.",
+        summary:"SEOVF fell ~8.3%, the portfolio's worst performer, with no company-specific news. The Cell Pouch Phase 1/2 T1D trial continues, with the following test group pending funding; still up ~22% YTD.",
+        takeaway:"Pure thin-float drift — at a ~$39M cap, the stock swings sharply both ways with nothing fundamental changing. The key catalyst to watch is initiation of the next test group, which depends on securing funding.",
         valImpact: false
       },
       {
@@ -85,7 +85,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Slips ~3.4% / Consolidating After Large YTD Run",
         summary:"IPSC fell ~3.4%, a modest pullback that still leaves it up ~127% YTD. No regulatory, clinical, or financing updates this week.",
-        takeaway:"A small give-back after a big move — nothing fundamental changed. Watch for a clinical or partnership update to confirm or test the iPSC platform's re-rating.",
+        takeaway:"A small give-back after a big move — nothing fundamental changed. Watch for a clinical or partnership update.",
         valImpact: false
       },
       {
