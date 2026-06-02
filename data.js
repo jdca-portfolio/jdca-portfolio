@@ -41,7 +41,7 @@ const WEEKS = [
         sentiment:"Negative",
         topic:"Stock Surges +38% / VA Symvess Contract Boost Ahead of V012 Readout",
         summary:"HUMA gained ~38.1%, closing at $1.45 — its third weekly close above $1.00. The rally builds on the Symvess trauma-treatment contract, which places the product on the preferred-sourcing list at ~170 VA hospitals, alongside anticipation ahead of the June 11 Phase 3 interim readout. Relative volume 1.34x; up ~50.9% YTD.",
-        takeaway:"Under Nasdaq deficiency notice, HUMA needs 10 consecutive business days at $1.00+ by November 2 to regain compliance. Real progress, but $1.45 is only ~45% above the $1.00 floor — a single sharp pullback (very possible around the readout) could break the 10-day compliance streak before it's banked. Sentiment stays Negative until compliance is formally regained and the readout clears.",
+        takeaway:"Under Nasdaq notice, HUMA must trade at $1.00+ for 10 straight business days by November 2nd to regain compliance. Despite progress, $1.45 leaves limited cushion, and a sharp readout-driven pullback could reset the streak. Sentiment remains Negative until compliance is restored and the readout clears.",
         valImpact: true
       },
       {
