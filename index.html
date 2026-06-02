@@ -236,7 +236,7 @@ function openModal(ticker, wIdx) {
         <div class="mn-topic">${news.topic}</div>
         <h4>${news.company} &mdash; What Happened</h4>
         <p>${news.summary}</p>
-        <div class="modal-takeaway"><strong>JDCA Takeaway</strong>${news.takeaway}</div>
+        <div class="modal-takeaway"><strong>T1D Impact</strong>${news.takeaway}</div>
        </div>`
     : `<div class="modal-no-news">No specific news coverage this week for ${h.ticker}.</div>`;
   document.getElementById('modal-content').innerHTML = `
@@ -315,7 +315,7 @@ function buildNews(w) {
   if (neutral.length) body += banner('neut','◆','Other Developments') + rows(neutral,'neutral');
   return `<table class="news-table"><thead><tr>
     <th style="width:148px">Company</th><th style="width:130px">Topic</th>
-    <th style="width:30%">Summary</th><th style="width:30%">JDCA Takeaway</th>
+    <th style="width:30%">Summary</th><th style="width:30%">T1D Impact</th>
     <th style="width:88px">Med-Term<br>Val. Impact</th>
   </tr></thead><tbody>${body}</tbody></table>`;
 }

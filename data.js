@@ -40,8 +40,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Negative",
         topic:"Stock Surges +38% / VA Symvess Contract Boost Ahead of V012 Readout",
-        summary:"HUMA gained ~38.1%, closing at $1.45 — its third weekly close above $1.00. The rally builds on the May 20 SAC SING contract that puts Symvess on the preferred-sourcing list at ~170 VA hospitals, with the June 11 V012 Phase 3 dialysis interim readout days away. Under the May 4 Nasdaq deficiency notice (Listing Rule 5450(a)(1)), HUMA needs 10 consecutive business days at $1.00+ by November 2 to regain compliance. Relative volume 1.34x; up ~50.9% YTD.",
-        takeaway:"Real progress, but $1.45 is only ~45% above the $1.00 floor — a single sharp pullback (very possible around the June 11 V012 binary readout) could break the 10-day compliance streak before it's banked. Sentiment stays Negative until compliance is formally regained and the readout clears.",
+        summary:"HUMA gained ~38.1%, closing at $1.45 — its third weekly close above $1.00. The rally builds on the Symvess trauma-treatment contract, which places the product on the preferred-sourcing list at ~170 VA hospitals, alongside anticipation ahead of the June 11 Phase 3 interim readout. Relative volume 1.34x; up ~50.9% YTD.",
+        takeaway:"Under Nasdaq deficiency notice, HUMA needs 10 consecutive business days at $1.00+ by November 2 to regain compliance. Real progress, but $1.45 is only ~45% above the $1.00 floor — a single sharp pullback (very possible around the readout) could break the 10-day compliance streak before it's banked. Sentiment stays Negative until compliance is formally regained and the readout clears.",
         valImpact: true
       },
       {
@@ -52,7 +52,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Climbs +22% / YTD Now +428% — Continues Extraordinary Run",
         summary:"FLUI.ST gained ~21.7%, extending its run to ~428% YTD. No new regulatory or financing news; volume remains extremely thin at this ~$7M market cap.",
-        takeaway:"Another large move that likely reflects how lightly the stock trades rather than a real change in company value. Until a concrete Nexocyte or type 1 diabetes milestone arrives, the price and the science remain disconnected.",
+        takeaway:"Until a concrete Nexocyte or t1d milestone arrives, the price and the science remain disconnected.",
         valImpact: false
       },
       {
@@ -74,7 +74,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls ~11.8% / Worst Weekly Performer — No New Catalyst",
         summary:"SABS fell ~11.8%, the portfolio's worst performer, with no company-specific news. The DiversitAb T1D program continues. Now down ~8% YTD on thin volume.",
-        takeaway:"The drop looks like normal price swings for a lightly traded stock rather than a response to any real news. The SAB-142 (DiversitAb) type 1 diabetes readout is still the data that matters; until then, weekly moves are just noise.",
+        takeaway:"The SAB-142 (DiversitAb) t1d readout is still the data that matters; until then, weekly moves are just noise.",
         valImpact: false
       },
       {
@@ -96,8 +96,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls ~8.6% / Extends Slide — Down ~57% YTD",
         summary:"GNPX fell ~8.6%, extending its downtrend with the stock at $0.75 and near 52-week lows. No new news; the Reqorsa oncology and GPX-002 diabetes gene-therapy programs continue. Now down ~57% YTD.",
-        takeaway:"Investor pessimism keeps weighing on the stock without any new bad news. With shares near 52-week lows and drifting lower, the market is clearly skeptical. Progress on the Reqorsa program is what would change the story.",
-        valImpact: false
+        takeaway:"Investor pessimism as shares continue to lower keeps weighing on the stock without any new bad news.",
       }
     ]
   },
