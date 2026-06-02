@@ -41,7 +41,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Surges +38% / Closes at $1.45, Decisively Above Nasdaq Threshold",
         summary:"HUMA gained ~38.1%, closing at $1.45 — its third weekly close above $1.00 and well clear of the Nasdaq minimum-bid threshold. Relative volume 1.34x suggests real institutional interest. Now up ~50.9% YTD.",
-        takeaway:"The move materially de-risks the listing question and looks like more than a thin-float bounce. Sentiment upgraded to Neutral; the V012 hemodialysis program and ATEV ramp remain the catalysts to confirm a positive turn.",
+        takeaway:"The big jump suggests the stock has largely cleared the risk of being delisted from Nasdaq, and looks driven by real buying interest rather than thin trading. The V012 kidney-dialysis program and ATEV product launch remain the catalysts to watch.",
         valImpact: true
       },
       {
@@ -52,7 +52,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Climbs +22% / YTD Now +428% — Continues Extraordinary Run",
         summary:"FLUI.ST gained ~21.7%, extending its run to ~428% YTD. No new regulatory or financing news; volume remains extremely thin at this ~$7M market cap.",
-        takeaway:"Another large move driven by thin liquidity more than a fundamental re-rating. Until a concrete Nexocyte or T1D milestone arrives, the price action and the underlying science are decoupled.",
+        takeaway:"Another large move that likely reflects how lightly the stock trades rather than a real change in company value. Until a concrete Nexocyte or t1d milestone arrives, the price and the science remain disconnected.",
         valImpact: false
       },
       {
@@ -63,7 +63,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Rebounds +10% / Reverses Prior Week's Modest Decline",
         summary:"NCEL gained ~10.1% on no company-specific news, reversing last week's small decline. The NCEL-101 / tegoprubart T1D collaboration with Eledon continues; now up ~83% YTD on thin volume.",
-        takeaway:"Typical micro-cap snap-back, not a fundamental signal. The Eledon tegoprubart collaboration remains the key program — a clinical or partnership update is what would matter.",
+        takeaway:"A typical small-cap bounce-back rather than a meaningful business shift. The Eledon tegoprubart collaboration remains the key program — a clinical or partnership update is what would actually matter.",
         valImpact: false
       },
       {
@@ -74,7 +74,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls ~11.8% / Worst Weekly Performer — No New Catalyst",
         summary:"SABS fell ~11.8%, the portfolio's worst performer, with no company-specific news. The DiversitAb T1D program continues. Now down ~8% YTD on thin volume.",
-        takeaway:"Pure thin-float drift in the absence of news. The SAB-142 (DiversitAb) T1D readout remains the catalyst that matters; until then, weekly moves at this float are noise.",
+        takeaway:"The drop looks like normal price swings for a lightly traded stock rather than a response to any real news. The SAB-142 (DiversitAb) type 1 diabetes readout is still the data that matters; until then, weekly moves are just noise.",
         valImpact: false
       },
       {
@@ -85,7 +85,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls ~8.8% / Mean Reversion After Prior Week's +19% Run",
         summary:"NXTCL.ST fell ~8.8%, giving back part of last week's +19% gain. No new news; the NextCell-Cord RUO commercial activity with FUJIFILM Biosciences continues. Still up ~58% YTD.",
-        takeaway:"Classic mean reversion in a thin-float name — last week's pop and this week's pullback are two sides of the same liquidity profile. The FUJIFILM tie-up thesis is unchanged.",
+        takeaway:"A typical pullback after last week's spike — both moves reflect how thinly the stock trades. The FUJIFILM partnership thesis is unchanged.",
         valImpact: false
       },
       {
@@ -96,7 +96,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls ~8.6% / Extends Slide — Down ~57% YTD",
         summary:"GNPX fell ~8.6%, extending its downtrend with the stock at $0.75 and near 52-week lows. No new news; the Reqorsa oncology and GPX-002 diabetes gene-therapy programs continue. Now down ~57% YTD.",
-        takeaway:"Sentiment overhang continues without a fresh negative. With the stock near lows and going lower, the market is clearly skeptical. Reqorsa clinical progress is the only thing likely to change the narrative.",
+        takeaway:"Investor pessimism keeps weighing on the stock without any new bad news. With shares near 52-week lows and drifting lower, the market is clearly skeptical. Progress on the Reqorsa program is what would change the story.",
         valImpact: false
       }
     ]
