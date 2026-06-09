@@ -40,8 +40,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Hits New All-Time High +6.2% / Strong Weight-Loss Data + Full US Insurance Coverage",
-        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149. At a major diabetes conference, Lilly presented strong late-stage data for its next-generation weight-loss drug (retatrutide), showing ~28% body-weight loss over 80 weeks. All three major US prescription-insurance providers now cover Lilly's obesity drugs. Up ~7.3% YTD.",
-        takeaway:"A genuinely strong week with real news behind the move. The new weight-loss data extends Lilly's lead in next-generation obesity drugs, and full insurance coverage removes a longstanding commercial concern. Main risks ahead: competitor data and pricing pressure.",
+        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149. At a major diabetes conference, Lilly presented strong Phase 3 data for Retatrutide (next-generation weight-loss drug, ~28% body-weight loss over 80 weeks) and positive Phase 3 results for Foundayo (oral GLP-1 pill) in type 2 diabetes. All three major US pharmacy benefit managers (PBMs) now cover Lilly's obesity drugs: CVS Caremark (part of CVS Health), Express Scripts (Cigna/Evernorth), and OptumRx (UnitedHealth Group). Up ~7.3% YTD.",
+        takeaway:"Strong week with Lilly's new weight-loss data extends its lead in next-generation obesity drugs, and full insurance coverage removes a longstanding commercial concern. Main risks ahead: competitor data and pricing pressure.",
         valImpact: true
       },
       {
@@ -51,8 +51,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Rises +2.1% / Defensive Gain in a Weak Biotech Week",
-        summary:"SNY gained ~2.1% with no specific news, holding up while most of the portfolio sold off. Sanofi continues to execute on its immunology and rare-disease drugs. Down ~4.4% YTD.",
-        takeaway:"A defensive gain in a tough week — the kind of stability you want from a large-cap holding. Pipeline progress and quarterly results remain the things to watch.",
+        summary:"SNY gained ~2.1% after Sarclisa was approved in the EU as the first cancer treatment that can be administered via an on-body injector. Down ~4.4% YTD.",
+        takeaway:"A defensive gain in a tough week, the kind of stability desired from a large-cap holding. What to watch: pipeline progress, quarterly results",
         valImpact: false
       },
       {
@@ -62,7 +62,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Up +1% / Holds Ground in Weak Biotech Week",
-        summary:"VRTX gained ~1.0%, essentially flat — a win in a down week for biotech. No company-specific news. Key drivers remain Vertex's cystic fibrosis drugs (treating a genetic lung disease), Casgevy (the first approved gene-editing therapy, for sickle cell and beta thalassemia), and Journavx (a non-opioid painkiller). Down ~2.3% YTD.",
+        summary:"VRTX gained ~1.0%, essentially flat — a win in a down week for biotech. Vertex is on track to submit global regulatory filings in 2026 for ALYFTREK, its next-gen cystic fibrosis treatment. Other key drivers: Casgevy (first approved gene-editing therapy, for sickle cell and beta thalassemia) and Journavx (non-opioid painkiller). Down ~2.3% YTD.",
         takeaway:"Doing what a large-cap should do — holding steady while smaller names sell off. Sentiment stays Positive on the broad pipeline; Casgevy uptake and upcoming trial results remain the things to watch.",
         valImpact: false
       },
@@ -73,8 +73,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −22% / Round-Trip After Two Big Up Weeks",
-        summary:"FLUI.ST fell ~22.0%, giving back part of the prior two weeks' +43% and +22% surge. No new news; trading volume was elevated. Still up ~312% YTD.",
-        takeaway:"A typical round-trip in a lightly traded stock — the big moves up and down both reflect thin trading rather than a change in the underlying business. The Nexocyte and type 1 diabetes thesis is unchanged.",
+        summary:"FLUI.ST fell ~22.0%, giving back part of the surge that began May 6-7 on strong Q1 financial results. Recent weakness likely reflects rally fatigue and thin liquidity. Still up ~312% YTD.",
+        takeaway:"A typical round-trip in a lightly traded stock — the big moves up and down both reflect thin trading rather than a change in the underlying business.",
         valImpact: false
       },
       {
@@ -84,8 +84,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Falls −16% / Sharp Drop Without Clear News Trigger",
-        summary:"SANA fell ~16.2% with no specific company news. The decline came as broader biotech weakened and money rotated into large-caps. Sana continues its cell-therapy work in type 1 diabetes and cancer. Down ~33.9% YTD.",
-        takeaway:"A meaningful drop in a name we still follow for its type 1 diabetes potential. With no obvious news trigger, the move likely reflects investors moving away from riskier cell-therapy stocks. Worth checking with the analyst on whether there's anything specific behind the decline.",
+        summary:"SANA fell ~16.2% with no single clear trigger. Broader biotech weakened and money rotated into large-caps; some weakness may also reflect dilution from Sana's May share offering. Down ~33.9% YTD.",
+        takeaway:"With no obvious news trigger, the move likely reflects investors moving away from riskier cell-therapy stocks.",
         valImpact: false
       },
       {
@@ -95,9 +95,29 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −13% / Sharp Drop on the French Listing",
-        summary:"ADOC.PA fell ~13.0% with no specific news. Adocia continues to develop its insulin and obesity combination treatments. Down ~37.5% YTD.",
-        takeaway:"A sharp move with no clear trigger. Adocia's pipeline of improved insulin and obesity combinations remains the main story. A clinical or partnership update would help reset the narrative.",
+        summary:"ADOC.PA fell ~13.0% with no specific news. Down ~37.5% YTD.",
+        takeaway:"A sharp move with no clear trigger within the company.",
         valImpact: false
+      },
+      {
+        side:"loser",
+        company:"Genprex",
+        ticker:"GNPX",
+        penny: true,
+        sentiment:"Neutral",
+        topic:"Stock Falls −10.5% / Possible Profit-Taking After Reqorsa Update",
+        summary:"GNPX fell ~10.5% with no specific trigger. Color suggests investors may be taking profits in a thin market after the small bounce on positive Reqorsa (gene therapy for lung cancer) news May 26th. Down ~61.7% YTD.",
+        takeaway:"Likely technical profit-taking rather than fresh bad news."
+      },
+      {
+        side:"loser",
+        company:"Century Therapeutics",
+        ticker:"IPSC",
+        penny: true,
+        sentiment:"Neutral",
+        topic:"Stock Falls −10.2% / Pullback After Huge YTD Run",
+        summary:"IPSC fell ~10.2% in a broad biotech sell-off, giving back part of a huge YTD run. No specific company news. Still up ~113% YTD.",
+        takeaway:"A pullback, but understandable after a +127% run into the week."
       }
     ]
   },
