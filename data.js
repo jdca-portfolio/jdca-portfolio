@@ -40,8 +40,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Hits New All-Time High +6.2% / Strong Weight-Loss Data + Full US Insurance Coverage",
-        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149 after a heavy-catalyst week. At the American Diabetes Association conference, Lilly presented strong late-stage data for retatrutide — its next-generation weight-loss drug — showing patients lost ~28% of body weight over 80 weeks. A related diabetes trial was published in The Lancet. Separately, all three major US prescription-insurance providers now cover Lilly's obesity drugs. Up ~7.3% YTD.",
-        takeaway:"A genuinely strong week backed by real catalysts. The retatrutide data extends Lilly's lead in next-generation obesity drugs, and full insurance coverage removes a long-standing commercial concern. Sentiment stays Positive; the main risks now are competitor data and ongoing pricing pressure.",
+        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149. At a major diabetes conference, Lilly presented strong late-stage data for its next-generation weight-loss drug (retatrutide), showing ~28% body-weight loss over 80 weeks. All three major US prescription-insurance providers now cover Lilly's obesity drugs. Up ~7.3% YTD.",
+        takeaway:"A genuinely strong week with real news behind the move. The new weight-loss data extends Lilly's lead in next-generation obesity drugs, and full insurance coverage removes a longstanding commercial concern. Main risks ahead: competitor data and pricing pressure.",
         valImpact: true
       },
       {
@@ -51,8 +51,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Rises +2.1% / Defensive Gain in a Weak Biotech Week",
-        summary:"SNY gained ~2.1% with no company-specific catalyst, holding up in a week when most of the portfolio sold off (IBB itself was down ~0.9%). Sanofi continues to execute on its immunology and rare-disease franchises. Down ~4.4% YTD.",
-        takeaway:"A defensive bid in a tough tape — the kind of stability the large-cap anchor is meant to provide. Pipeline progress and quarterly execution remain the things to watch.",
+        summary:"SNY gained ~2.1% with no specific news, holding up while most of the portfolio sold off. Sanofi continues to execute on its immunology and rare-disease drugs. Down ~4.4% YTD.",
+        takeaway:"A defensive gain in a tough week — the kind of stability you want from a large-cap holding. Pipeline progress and quarterly results remain the things to watch.",
         valImpact: false
       },
       {
@@ -61,9 +61,9 @@ const WEEKS = [
         ticker:"VRTX",
         penny: false,
         sentiment:"Positive",
-        topic:"Stock Up +1% / Holds Ground in Weak Tape",
-        summary:"VRTX gained ~1.0%, essentially flat but a win in a down week for biotech. No company-specific news. The key drivers remain: its cystic fibrosis drugs (Vertex's main franchise, treating a genetic lung disease), Casgevy (the first approved gene-editing therapy, for sickle cell disease and beta thalassemia), and Journavx (a non-opioid painkiller approved in 2025). Down ~2.3% YTD.",
-        takeaway:"Doing what a large-cap anchor is supposed to do — holding steady while smaller names sell off. Sentiment stays Positive on the diversified pipeline; Casgevy uptake and pipeline readouts remain the events to watch.",
+        topic:"Stock Up +1% / Holds Ground in Weak Biotech Week",
+        summary:"VRTX gained ~1.0%, essentially flat — a win in a down week for biotech. No company-specific news. Key drivers remain Vertex's cystic fibrosis drugs (treating a genetic lung disease), Casgevy (the first approved gene-editing therapy, for sickle cell and beta thalassemia), and Journavx (a non-opioid painkiller). Down ~2.3% YTD.",
+        takeaway:"Doing what a large-cap should do — holding steady while smaller names sell off. Sentiment stays Positive on the broad pipeline; Casgevy uptake and upcoming trial results remain the things to watch.",
         valImpact: false
       },
       {
@@ -73,8 +73,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −22% / Round-Trip After Two Big Up Weeks",
-        summary:"FLUI.ST fell ~22.0%, giving back part of the +43% and +22% runs of the prior two weeks. No new regulatory or financing news. Volume was elevated (relative volume 2.24x). Still up ~312% YTD.",
-        takeaway:"A typical round-trip in a thinly traded micro-cap — the moves up and down both reflect how lightly the stock trades, not a change in the underlying business. The Nexocyte and type 1 diabetes thesis is unchanged.",
+        summary:"FLUI.ST fell ~22.0%, giving back part of the prior two weeks' +43% and +22% surge. No new news; trading volume was elevated. Still up ~312% YTD.",
+        takeaway:"A typical round-trip in a lightly traded stock — the big moves up and down both reflect thin trading rather than a change in the underlying business. The Nexocyte and type 1 diabetes thesis is unchanged.",
         valImpact: false
       },
       {
@@ -83,9 +83,9 @@ const WEEKS = [
         ticker:"SANA",
         penny: false,
         sentiment:"Neutral",
-        topic:"Stock Falls −16% / Sharp Drop Without Identified Catalyst",
-        summary:"SANA fell ~16.2% with no specific company catalyst identified. The decline came as broader biotech weakened and money rotated into large-caps around the ADA conference. Sana continues its hypoimmune cell-therapy work in type 1 diabetes and oncology. Down ~33.9% YTD.",
-        takeaway:"A meaningful drop in a name we still follow for its T1D potential. With no obvious news trigger, the move likely reflects risk-off positioning in cell therapy. Worth checking with the analyst on whether there's anything specific behind the decline.",
+        topic:"Stock Falls −16% / Sharp Drop Without Clear News Trigger",
+        summary:"SANA fell ~16.2% with no specific company news. The decline came as broader biotech weakened and money rotated into large-caps. Sana continues its cell-therapy work in type 1 diabetes and cancer. Down ~33.9% YTD.",
+        takeaway:"A meaningful drop in a name we still follow for its type 1 diabetes potential. With no obvious news trigger, the move likely reflects investors moving away from riskier cell-therapy stocks. Worth checking with the analyst on whether there's anything specific behind the decline.",
         valImpact: false
       },
       {
@@ -95,8 +95,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −13% / Sharp Drop on the French Listing",
-        summary:"ADOC.PA fell ~13.0% with no specific catalyst identified. Adocia continues to develop its BioChaperone insulin and obesity-related combination formulations. Relative volume 1.41x. Down ~37.5% YTD.",
-        takeaway:"A sharp move with no clear trigger. The BioChaperone combination-drug pipeline remains the story. A clinical or partnership update would help reset the narrative.",
+        summary:"ADOC.PA fell ~13.0% with no specific news. Adocia continues to develop its insulin and obesity combination treatments. Down ~37.5% YTD.",
+        takeaway:"A sharp move with no clear trigger. Adocia's pipeline of improved insulin and obesity combinations remains the main story. A clinical or partnership update would help reset the narrative.",
         valImpact: false
       }
     ]
