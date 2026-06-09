@@ -40,7 +40,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Hits New All-Time High +6.2% / Strong Weight-Loss Data + Full US Insurance Coverage",
-        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149. At a major diabetes conference, Lilly presented strong Phase 3 data for Retatrutide (next-generation weight-loss drug, ~28% body-weight loss over 80 weeks) and positive Phase 3 results for Foundayo (oral GLP-1 pill) in type 2 diabetes. All three major US pharmacy benefit managers (PBMs) now cover Lilly's obesity drugs: CVS Caremark (part of CVS Health), Express Scripts (Cigna/Evernorth), and OptumRx (UnitedHealth Group). Up ~7.3% YTD.",
+        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149. At a major diabetes conference, Lilly presented strong Phase 3 data for Retatrutide (next-generation weight-loss drug) and positive Phase 3 results for Foundayo (oral GLP-1 pill) in t2d. All three major US pharmacy benefit managers (PBMs) now cover Lilly's obesity drugs: CVS Caremark (CVS Health), Express Scripts (Cigna/Evernorth), and OptumRx (UnitedHealth Group). Up ~7.3% YTD.",
         takeaway:"Strong week with Lilly's new weight-loss data extends its lead in next-generation obesity drugs, and full insurance coverage removes a longstanding commercial concern. Main risks ahead: competitor data and pricing pressure.",
         valImpact: true
       },
