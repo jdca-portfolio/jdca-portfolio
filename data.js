@@ -117,7 +117,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls −10.2% / Pullback After Huge YTD Run",
         summary:"IPSC fell ~10.2% in a broad biotech sell-off, giving back part of a huge YTD run. No specific company news. Still up ~113% YTD.",
-        takeaway:"A pullback, but understandable after a +127% run into the week."
+        takeaway:"A pullback, but understandable after a +113% run into the week."
       }
     ]
   },
