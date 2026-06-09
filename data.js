@@ -39,9 +39,9 @@ const WEEKS = [
         ticker:"LLY",
         penny: false,
         sentiment:"Positive",
-        topic:"Stock Hits New All-Time High +6.2% / Retatrutide Phase 3 Data + Full PBM Obesity Coverage",
-        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149 after a heavy-catalyst week. At the ADA 86th Scientific Sessions (June 5–8, New Orleans), Lilly presented strong Phase 3 retatrutide data — TRIUMPH-1 showed ~28% body-weight loss over 80 weeks, and TRANSCEND-T2D-1 was simultaneously published in The Lancet. Lilly also confirmed all three major US PBMs now cover its obesity portfolio, with CVS Caremark adding oral GLP-1 Foundayo on June 1. Up ~7.3% YTD.",
-        takeaway:"A genuinely strong week backed by real catalysts. Retatrutide's data extends Lilly's lead in next-generation obesity, and full PBM coverage removes a long-standing commercial concern. Sentiment stays Positive; the main risk now is competitor data and ongoing pricing pressure.",
+        topic:"Stock Hits New All-Time High +6.2% / Strong Weight-Loss Data + Full US Insurance Coverage",
+        summary:"LLY gained ~6.2%, closing at a new all-time high of $1,149 after a heavy-catalyst week. At the American Diabetes Association conference, Lilly presented strong late-stage data for retatrutide — its next-generation weight-loss drug — showing patients lost ~28% of body weight over 80 weeks. A related diabetes trial was published in The Lancet. Separately, all three major US prescription-insurance providers now cover Lilly's obesity drugs. Up ~7.3% YTD.",
+        takeaway:"A genuinely strong week backed by real catalysts. The retatrutide data extends Lilly's lead in next-generation obesity drugs, and full insurance coverage removes a long-standing commercial concern. Sentiment stays Positive; the main risks now are competitor data and ongoing pricing pressure.",
         valImpact: true
       },
       {
@@ -62,7 +62,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Up +1% / Holds Ground in Weak Tape",
-        summary:"VRTX gained ~1.0%, essentially flat but a relative win in a down week for biotech. No company-specific catalyst; the CF franchise, Casgevy launch, and suzetrigine pain program remain the key drivers. Down ~2.3% YTD.",
+        summary:"VRTX gained ~1.0%, essentially flat but a win in a down week for biotech. No company-specific news. The key drivers remain: its cystic fibrosis drugs (Vertex's main franchise, treating a genetic lung disease), Casgevy (the first approved gene-editing therapy, for sickle cell disease and beta thalassemia), and Journavx (a non-opioid painkiller approved in 2025). Down ~2.3% YTD.",
         takeaway:"Doing what a large-cap anchor is supposed to do — holding steady while smaller names sell off. Sentiment stays Positive on the diversified pipeline; Casgevy uptake and pipeline readouts remain the events to watch.",
         valImpact: false
       },
