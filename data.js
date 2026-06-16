@@ -39,9 +39,9 @@ const WEEKS = [
         ticker:"SABS",
         penny: true,
         sentiment:"Neutral",
-        topic:"Stock Climbs +14.7% / Top Weekly Gainer, No Specific News",
-        summary:"SABS gained ~14.7% with no specific catalyst. The SAB-142 (DiversitAb) type 1 diabetes program continues. Up ~4.3% YTD.",
-        takeaway:"A continued thin-volume rebound without a clear trigger. The SAB-142 type 1 diabetes readout is still the data that would actually matter."
+        topic:"Stock Climbs +14.7% / Top Weekly Gainer, No Specific Company News",
+        summary:"SABS gained ~14.7% with no specific company news. Up ~4.3% YTD.",
+        takeaway:"A continued bounce observed in this lightly-traded stock, currently without an obvious reason. SAB-142 t1d program continues. Trial results would cause meaningful shifts."
       },
       {
         side:"gainer",
@@ -49,9 +49,9 @@ const WEEKS = [
         ticker:"CELZ",
         penny: true,
         sentiment:"Neutral",
-        topic:"Stock Rises +10.2% / Strength Continues With No Company News",
-        summary:"CELZ gained ~10.2% with no specific catalyst. The CELZ-201 (AlloStem) type 1 diabetes program continues. Now up ~21.9% YTD on thin volume.",
-        takeaway:"Typical thin-volume drift higher. The CELZ-201 type 1 diabetes program is what matters; watch for any enrollment or data update."
+        topic:"Stock Rises +10.2% / Strength Continues, No Company News",
+        summary:"CELZ gained ~10.2% with no specific company news. Up ~21.9% YTD on low trading volume.",
+        takeaway:"Typical drift higher in a lightly-traded stock. Watch for any CELZ-201 patient-enrollment or trial-data updates."
       },
       {
         side:"gainer",
@@ -60,8 +60,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Rebounds +8.5% / Bouncing Back After Prior-Week Pullback",
-        summary:"IPSC gained ~8.5%, partly reversing last week's pullback. No specific news. Still up ~131% YTD — one of the strongest year-to-date performers.",
-        takeaway:"Continued strength in the iPSC platform's story. A clinical or partnership update is what would confirm the year's re-rating."
+        summary:"IPSC gained ~8.5%, partly reversing last week's pullback. No specific company news. Still up ~131% YTD — one of the strongest performers in the portfolio this year.",
+        takeaway:"Continued strength in their iPSC story. A clinical or partnership update is what would confirm the big YTD run."
       },
       {
         side:"loser",
@@ -69,9 +69,9 @@ const WEEKS = [
         ticker:"GNPX",
         penny: true,
         sentiment:"Neutral",
-        topic:"Stock Falls −27.4% / Worst Weekly Performer — Now Down ~72% YTD",
-        summary:"GNPX fell ~27.4%, the portfolio's worst weekly performer, with no specific news. The stock is now at $0.49 — deep in 52-week-low territory. Down ~72% YTD.",
-        takeaway:"An accelerating downtrend with no fresh trigger. With the stock this far below $1, listing and dilution risks are real concerns. Reqorsa progress is what would change the story."
+        topic:"Stock Falls −27.4% / Nasdaq Plans to Remove Genprex From the Exchange",
+        summary:"GNPX fell ~27.4% after disclosing on June 12 that Nasdaq plans to delist the stock for trading below $1.00. Most companies in this spot get 180 days to push their price back up — but Genprex already used that option in October 2025 by doing a reverse stock split, so they don't qualify again. Their only path to stay listed now is to appeal at a Nasdaq hearing. Stock at $0.49. Down ~72% YTD.",
+        takeaway:"Genprex faces a real risk of being removed from Nasdaq, not just a warning. The appeal hearing buys time, and they may try another reverse stock split to push the price above $1 — though those often drift back down. Progress on the Reqorsa cancer drug is what would really change the story."
       },
       {
         side:"loser",
@@ -79,9 +79,9 @@ const WEEKS = [
         ticker:"HUMA",
         penny: true,
         sentiment:"Negative",
-        topic:"Stock Falls −22.5% / Continued V012 Fallout, Back Near $1 Nasdaq Floor",
-        summary:"HUMA fell ~22.5% to $1.07 — a third straight week of declines since the June 11 V012 hemodialysis interim readout. The stock is now just 7 cents above the Nasdaq $1.00 floor. Up ~11% YTD.",
-        takeaway:"The post-V012 reaction continues to sour. At $1.07, HUMA is back at the Nasdaq listing line, with the binary readout risk now replaced by a slower-bleed risk. Sentiment stays Negative."
+        topic:"Stock Falls −22.5% / Stock-Sale Worries Overshadow Positive Trial Results",
+        summary:"HUMA fell ~22.5% to $1.07 even though early Phase 3 data from its V012 kidney-dialysis trial were positive. Investors focused instead on the company's recent equity deal, a $50 million public stock offering that immediately diluted existing shareholder ownership. The stock is now just 7 cents above Nasdaq's $1.00 minimum for continued listing. Up ~11% YTD.",
+        takeaway:"Despite positive Phase 3 hemodialysis trial results, the recent stock sale raised greater concerns about dilution of existing shareholders. At $1.07, HUMA is right back near Nasdaq's $1 listing minimum. Sentiment stays Negative until those concerns ease."
       },
       {
         side:"loser",
@@ -89,9 +89,9 @@ const WEEKS = [
         ticker:"FLUI.ST",
         penny: true,
         sentiment:"Neutral",
-        topic:"Stock Falls −20.1% / Continued Round-Trip From May Rally",
-        summary:"FLUI.ST fell ~20.1%, extending the pullback from the May rally that began on strong Q1 financial results. No new company news. Still up ~229% YTD.",
-        takeaway:"Continued unwind of the thin-float May rally. The Nexocyte tissue-printing work — the type 1 diabetes angle — is unchanged."
+        topic:"Stock Falls −20.1% / Continued Pullback From May Rally",
+        summary:"FLUI.ST fell ~20.1%, continuing to give back gains from the May rally that began on strong Q1 financial results. No new company news. Still up ~229% YTD.",
+        takeaway:"Continued pullback in a lightly-traded stock after the May rally. Nexocyte (tissue engineering) t1d program remains unchanged."
       }
     ]
   },
