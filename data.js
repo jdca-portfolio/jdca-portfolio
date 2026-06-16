@@ -40,8 +40,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +14.7% / Top Weekly Gainer, No Specific Company News",
-        summary:"SABS gained ~14.7% with no specific company news. Up ~4.3% YTD.",
-        takeaway:"A continued bounce observed in this lightly-traded stock, currently without an obvious reason. SAB-142 t1d program continues. Trial results would cause meaningful shifts."
+        summary:"SABS gained ~14.7% after presenting positive juvenile non-human primate (NHP) data on June 10 at the FOCIS 2026 conference. Animal-study findings aligned closely with what's been seen in earlier human trials, validating that SAB-142 (DiversitAb) behaves as expected across species and supports the ongoing Phase 2b SAFEGUARD trial in t1d. Up ~4.3% YTD.",
+        takeaway:"The strong animal-to-human translation is a real de-risking step, strengthening confidence in SAB-142's mechanism oftargeting immune cells that attack insulin-producing cells in t1d. Focus now shifts to Phase 2b SAFEGUARD topline data, expected in the second half of 2027."
       },
       {
         side:"gainer",
