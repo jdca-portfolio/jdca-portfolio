@@ -39,8 +39,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +25.4% / Top Weekly Gainer on Heavy Volume, No Specific Company News",
-        summary:"SANA surged ~25.4% on above-average volume with no specific company announcements. The move looks like renewed investor interest in Sana's hypoimmune (HIP) cell platform rather than a confirmed catalyst. Still down ~17% YTD after a volatile year.",
-        takeaway:"A 25% pop on volume shows the market still rewards the cure-oriented story on Sana's UP421 HIP islet-cell program. Though with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick."
+        summary:"SANA surged ~25.4% on above-average volume with no specific company announcements. Still down ~17% YTD after a volatile year.",
+        takeaway:"A 25% pop on volume shows the market still rewards the cure-oriented story on Sana's UP421 hypoimmune (HIP) islet-cell program. Though with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick."
       },
       {
         side:"gainer",
@@ -49,7 +49,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +18.0% / Second Strong Week in a Row on Very Heavy Volume",
-        summary:"SABS rose ~18.0% on unusually heavy volume (more than 3x its normal level), extending the prior week's rally. No new announcements; the gain reads as continued momentum from the positive non-human primate (NHP) data for SAB-142 presented the week before. Up ~5% YTD.",
+        summary:"SABS rose ~18.0% on unusually heavy volume (>3x its normal level), extending the prior week's rally. No new announcements; the gain reads as continued momentum from the positive non-human primate (NHP) data for SAB-142 presented last week. Up ~5% YTD.",
         takeaway:"Back-to-back up weeks on big volume signal growing conviction in SAB-142, but the decisive moment is still Phase 2b data expected in H2 2027. As a penny stock, expect sharp swings in both directions until then."
       },
       {
@@ -90,7 +90,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.1% / Delisting Cloud Still Hanging Over It",
         summary:"GNPX fell another ~14.1% to $0.55, continuing last week's sharp drop as Nasdaq's plan to remove the stock from the exchange remains unresolved. The company's only realistic path to stay listed is its appeal hearing. Down ~69% YTD.",
-        takeaway:"Genprex is still in active danger of being delisted, and the stock keeps sliding while the listing question hangs over it. Its t1d gene-therapy program is early-stage and completely overshadowed by the listing crisis. Remains a high-risk situation for shareholders."
+        takeaway:"In active danger of being delisted, as the stock keeps sliding while the listing question hangs over it. Its t1d gene-therapy program is early-stage and completely overshadowed by the listing crisis, remaining high-risk for shareholders."
       }
     ]
   },
