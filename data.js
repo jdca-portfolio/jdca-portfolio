@@ -70,7 +70,7 @@ const WEEKS = [
         sentiment:"Negative",
         topic:"Stock Falls \u221220.5% / Slips Below Nasdaq's $1 Minimum",
         summary:"HUMA fell ~20.5% on elevated volume to $0.84, dropping below Nasdaq's $1.00 minimum price for continued listing. The slide continues the fallout from the company's recent $50 million stock sale. Dilution worries keep overshadowing positive late-stage trial data. Down ~13% YTD. Now under $1.00, HUMA faces real risk of a Nasdaq compliance/delisting process. For shareholders, the near-term story is listing risk and dilution, not the science. Sentiment stays Negative until the company addresses the price-minimum issue and eases dilution concerns.",
-        takeaway:"For Humacyte, t1d is only a preclinical program. Ongoing delisting stress and dilution could likely impair its ability to fund non-core, early-stage work — including that preclinical t1d research."
+        takeaway:"HUMA's T1D pipeline is only in its preclinical stage. Ongoing delisting stress and dilution could likely impair its ability to fund non-core, early-stage work — including that preclinical t1d research."
       },
       {
         side:"loser",
@@ -80,7 +80,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.7% / Continued Pullback From a Huge Run-Up",
         summary:"FLUI.ST fell ~14.7% on light volume with no new company news, extending the giveback from its enormous earlier rally. Even after the pullback, it is still up ~231% YTD. This is profit-taking in a thinly-traded stock, nothing further. Fluicell's Nexocyte tissue-engineering t1d program is unchanged. With so little daily volume, expect the price to stay choppy in both directions.",
-        takeaway:"No impact. The Nexocyte tissue-engineering t1d program is unchanged; the drop is profit-taking, not pipeline news."
+        takeaway:"No impact. The Nexocyte tissue-engineering t1d program is unchanged. This drop is profit-taking, not pipeline news."
       },
       {
         side:"loser",
