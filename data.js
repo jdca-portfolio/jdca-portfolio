@@ -39,7 +39,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +25.4% / Top Weekly Gainer on Heavy Volume, No Specific Company News",
-        summary:"SANA surged ~25.4% on above-average volume with no specific company announcements. Still down ~17% YTD after a volatile year. A 25% pop on volume shows the market still rewards the cure-oriented story on Sana's UP421 hypoimmune (HIP) islet-cell program. Though with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick.",
+        summary:"A 25% pop on volume shows the market still rewards the cure-oriented story on Sana's UP421 hypoimmune (HIP) islet-cell program. Though with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick.",
         takeaway:"No direct pipeline impact. The UP421 hypoimmune islet-cell program is unchanged; the gain reflects sentiment, not new data."
       },
       {
@@ -49,7 +49,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +18.0% / Second Strong Week in a Row on Very Heavy Volume",
-        summary:"SABS rose ~18.0% on unusually heavy volume (>3x its normal level), extending the prior week's rally. No new announcements; the gain reads as continued momentum from the positive non-human primate (NHP) data for SAB-142 presented last week. Up ~5% YTD. Back-to-back up weeks on big volume signal growing conviction in SAB-142, but the decisive moment is still Phase 2b data expected in H2 2027. As a penny stock, expect sharp swings in both directions until then.",
+        summary:"SABS rose ~18.0% on unusually heavy volume (>3x its normal level). Back-to-back up weeks on big volume signal growing conviction in SAB-142, but the decisive moment is still Phase 2b data expected in H2 2027. As a penny stock, expect sharp swings in both directions until then.",
         takeaway:"SAB-142 is the company's lead t1d asset, but the pipeline itself is unchanged. The Phase 2b readout is still expected H2 2027. Until then, no new data."
       },
       {
@@ -59,7 +59,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Rises +9.2% / Gains on Normal Volume, No Company News",
-        summary:"CRSP gained ~9.2% on roughly normal trading volume with no specific company news, suggesting the move was driven by broader biotech-sector strength. Up ~3.7% YTD. A 9% gain on ordinary volume looks more like a sector tailwind than a company event. Watch for a pipeline or partnership update to confirm real progress on the t1d front.",
+        summary:"CRSP gained ~9.2% on roughly normal trading volume with no specific company news. The gain looks more like a sector tailwind than a company event. Watch for a pipeline or partnership update to confirm real progress on the t1d front.",
         takeaway:"No impact. The gain is sector-driven; CRISPR's stem-cell-derived islet (immune-evasion) work is unchanged."
       },
       {
@@ -69,7 +69,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Negative",
         topic:"Stock Falls \u221220.5% / Slips Below Nasdaq's $1 Minimum",
-        summary:"HUMA fell ~20.5% on elevated volume to $0.84, dropping below Nasdaq's $1.00 minimum price for continued listing. The slide continues the fallout from the company's recent $50 million stock sale. Dilution worries keep overshadowing positive late-stage trial data. Down ~13% YTD. Now under $1.00, HUMA faces real risk of a Nasdaq compliance/delisting process. For shareholders, the near-term story is listing risk and dilution, not the science. Sentiment stays Negative until the company addresses the price-minimum issue and eases dilution concerns.",
+        summary:"Now under $1.00, HUMA faces real risk of a Nasdaq compliance/delisting process. For shareholders, the near-term story is listing risk and dilution, not the science. Sentiment stays Negative until the company addresses the price-minimum issue and eases dilution concerns.",
         takeaway:"HUMA's t1d pipeline is only in its preclinical stage. Ongoing delisting stress and dilution could likely impair its ability to fund non-core, early-stage work."
       },
       {
@@ -79,7 +79,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.7% / Continued Pullback From a Huge Run-Up",
-        summary:"FLUI.ST fell ~14.7% on light volume with no new company news, extending the giveback from its enormous earlier rally. Even after the pullback, it is still up ~231% YTD. This is profit-taking in a thinly-traded stock, nothing further. Fluicell's Nexocyte tissue-engineering t1d program is unchanged. With so little daily volume, expect the price to stay choppy in both directions.",
+        summary:"FLUI.ST fell ~14.7% on light volume with no new company news, extending the giveback from its enormous earlier rally. This is profit-taking in a thinly-traded stock, nothing further. Fluicell's Nexocyte tissue-engineering t1d program is unchanged. With so little daily volume, expect the price to stay choppy in both directions.",
         takeaway:"No impact. The Nexocyte tissue-engineering t1d program is unchanged. This drop is profit-taking, not pipeline news."
       },
       {
@@ -89,7 +89,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.1% / Delisting Cloud Still Hanging Over It",
-        summary:"GNPX fell another ~14.1% to $0.55, continuing last week's sharp drop as Nasdaq's plan to remove the stock from the exchange remains unresolved. The company's only realistic path to stay listed is its appeal hearing. Down ~69% YTD. In active danger of being delisted, as the stock keeps sliding while the listing question hangs over it. Its t1d gene-therapy program is early-stage and completely overshadowed by the listing crisis, remaining high-risk for shareholders.",
+        summary:"GNPX fell another ~14.1% to $0.55. In active danger of being delisted, as the stock keeps sliding while the listing question hangs over it. Its t1d gene-therapy program is early-stage and completely overshadowed by the listing crisis, remaining high-risk for shareholders.",
         takeaway:"Delisting jeopardy and tight capital could likely impair Genprex's ability to advance its t1d gene-therapy program."
       }
     ]
