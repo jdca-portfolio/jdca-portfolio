@@ -39,8 +39,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +25.4% / Top Weekly Gainer on Heavy Volume, No Specific Company News",
-        summary:"SANA surged ~25.4% on above-average volume with no specific company announcement to point to. The move looks like renewed investor interest in Sana's hypoimmune (immune-evading) cell platform rather than a confirmed catalyst. Still down ~17% YTD after a volatile year.",
-        takeaway:"Sana's draw is UP421, it's hypoimmune (HIP) islet-cell program, aiming to replace insulin-producing cells without immunosuppression. A 25% pop on volume shows the market still rewards that cure-oriented story, but with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick."
+        summary:"SANA surged ~25.4% on above-average volume with no specific company announcements. The move looks like renewed investor interest in Sana's hypoimmune (HIP) cell platform rather than a confirmed catalyst. Still down ~17% YTD after a volatile year.",
+        takeaway:"A 25% pop on volume shows the market still rewards the cure-oriented story on Sana's UP421 HIP islet-cell program. Though with no confirmed news and the stock still down YTD, a real clinical or data update is what would make the move stick."
       },
       {
         side:"gainer",
@@ -49,8 +49,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Climbs +18.0% / Second Strong Week in a Row on Very Heavy Volume",
-        summary:"SABS rose ~18.0% on unusually heavy volume (more than 3x its normal level), extending the prior week's rally. There was no confirmed new announcement; the gain reads as continued momentum from the positive juvenile animal-study (NHP) data for SAB-142 presented at FOCIS 2026 the week before. Up ~5% YTD.",
-        takeaway:"SAB-142 is designed to delay t1d by calming the immune attack on insulin-producing cells. Back-to-back up weeks on big volume signal growing conviction in that approach, but the decisive moment is still the Phase 2b SAFEGUARD topline data expected in H2 2027. As a penny stock, expect sharp swings in both directions until then."
+        summary:"SABS rose ~18.0% on unusually heavy volume (more than 3x its normal level), extending the prior week's rally. No new announcements; the gain reads as continued momentum from the positive non-human primate (NHP) data for SAB-142 presented the week before. Up ~5% YTD.",
+        takeaway:"Back-to-back up weeks on big volume signal growing conviction in SAB-142, but the decisive moment is still Phase 2b data expected in H2 2027. As a penny stock, expect sharp swings in both directions until then."
       },
       {
         side:"gainer",
@@ -59,8 +59,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Rises +9.2% / Gains on Normal Volume, No Company News",
-        summary:"CRSP gained ~9.2% on roughly normal trading volume with no specific company news, suggesting the move was driven by broader biotech-sector strength rather than anything CRISPR-specific. Up ~3.7% YTD.",
-        takeaway:"A 9% gain on ordinary volume looks more like a sector tailwind than a company event, so watch for a pipeline or partnership update to confirm real progress on the t1d front."
+        summary:"CRSP gained ~9.2% on roughly normal trading volume with no specific company news, suggesting the move was driven by broader biotech-sector strength. Up ~3.7% YTD.",
+        takeaway:"A 9% gain on ordinary volume looks more like a sector tailwind than a company event. Watch for a pipeline or partnership update to confirm real progress on the t1d front."
       },
       {
         side:"loser",
@@ -69,7 +69,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Negative",
         topic:"Stock Falls \u221220.5% / Slips Below Nasdaq's $1 Minimum",
-        summary:"HUMA fell ~20.5% on elevated volume to $0.84, dropping below Nasdaq's $1.00 minimum price for continued listing. The slide continues the fallout from the company's recent $50 million stock sale, which diluted existing shareholders, and these listing/dilution worries keep overshadowing its otherwise positive late-stage trial data. Down ~13% YTD.",
+        summary:"HUMA fell ~20.5% on elevated volume to $0.84, dropping below Nasdaq's $1.00 minimum price for continued listing. The slide continues the fallout from the company's recent $50 million stock sale. Dilution worries keep overshadowing positive late-stage trial data. Down ~13% YTD.",
         takeaway:"Now under $1.00, HUMA faces real risk of a Nasdaq compliance/delisting process. For shareholders, the near-term story is listing risk and dilution, not the science. Sentiment stays Negative until the company addresses the price-minimum issue and eases dilution concerns."
       },
       {
@@ -79,8 +79,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.7% / Continued Pullback From a Huge Run-Up",
-        summary:"FLUI.ST fell ~14.7% on light volume with no new company news, extending the giveback from its enormous earlier rally. Even after the pullback, it is still up ~231% YTD \u2014 the best year-to-date performer in the portfolio.",
-        takeaway:"This is profit-taking in a thinly-traded stock, not a change in the fundamentals. Fluicell's Nexocyte tissue-engineering t1d program is unchanged. With so little daily volume, expect the price to stay choppy in both directions."
+        summary:"FLUI.ST fell ~14.7% on light volume with no new company news, extending the giveback from its enormous earlier rally. Even after the pullback, it is still up ~231% YTD.",
+        takeaway:"This is profit-taking in a thinly-traded stock, nothing further. Fluicell's Nexocyte tissue-engineering t1d program is unchanged. With so little daily volume, expect the price to stay choppy in both directions."
       },
       {
         side:"loser",
@@ -90,7 +90,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls \u221214.1% / Delisting Cloud Still Hanging Over It",
         summary:"GNPX fell another ~14.1% to $0.55, continuing last week's sharp drop as Nasdaq's plan to remove the stock from the exchange remains unresolved. The company's only realistic path to stay listed is its appeal hearing. Down ~69% YTD.",
-        takeaway:"Genprex is still in active danger of being delisted, and the stock keeps sliding while the listing question hangs over it. Its diabetes gene-therapy program (aimed at regenerating insulin-producing cells) is early-stage and completely overshadowed by the listing crisis. This remains a high-risk situation for shareholders."
+        takeaway:"Genprex is still in active danger of being delisted, and the stock keeps sliding while the listing question hangs over it. Its t1d gene-therapy program is early-stage and completely overshadowed by the listing crisis. Remains a high-risk situation for shareholders."
       }
     ]
   },
