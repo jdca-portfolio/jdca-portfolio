@@ -1,7 +1,6 @@
 const WEEKS = [
 
   {
-    
     label: "Week of 06/29/2026",
     asOf:"06/29/2026",
     stats: {
@@ -41,8 +40,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Jumps +11.6% / Diabetes and Obesity Drug Sales Send Shares to New Highs",
-        summary:"LLY gained ~11.6% and hit fresh all-time highs after reporting blowout sales growth for Mounjaro and Zepbound and raising full-year revenue guidance. The rally reflects confidence in Lilly's broader metabolic-disease franchise, not any new t1d-specific news. Lilly remains one of the largest suppliers of insulin products used daily by people with t1d.",
-        takeaway:"No direct t1d pipeline impact. The gain is driven by Lilly's obesity/T2D franchise; its core insulin business for t1d patients is unchanged."
+        summary:"LLY gained ~11.6% and hit fresh all-time highs after reporting blowout sales growth for Mounjaro (T2D treatment) and Zepbound (GLP-1) and raising full-year revenue guidance. The rally reflects confidence in Lilly's broader metabolic-disease franchise, not any new T1D-specific news.",
+        takeaway:"No direct T1D pipeline impact. The gain is driven by Lilly's obesity and T2D franchise. No change in outlook for their Practical Cure efforts."
       },
       {
         side:"gainer",
@@ -51,8 +50,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Rises +7.1% / Quiet Technical Bounce, No Company News",
-        summary:"LCTX climbed ~7.1% on ordinary volume with no company-specific news, continuing a tight, catalyst-free trading range. The move looks technical rather than fundamental. Lineage's early-stage t1d cell-transplant program, ILT1, remains preclinical and unchanged.",
-        takeaway:"No impact. ILT1, Lineage's preclinical t1d cell-transplant candidate, is unaffected; the gain reflects sentiment, not new data."
+        summary:"LCTX climbed ~7.1% on ordinary volume with no company-specific news, continuing a tight, catalyst-free trading range. The move looks technical rather than fundamental.",
+        takeaway:"No impact on ILT1, Lineage's preclinical T1D cell-transplant candidate. The gain reflects sentiment, not new data."
       },
       {
         side:"gainer",
@@ -61,8 +60,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Gains +7.0% / Broad Strength as Zimislecel Phase 3 Stays on Track",
-        summary:"VRTX rose ~7.0% amid steady analyst support and no single new company catalyst this week. Vertex has said its pivotal zimislecel islet-cell therapy trial remains on track to complete enrollment this year, keeping the company on pace for a 2026 regulatory submission, though nothing new was disclosed on that timeline this week.",
-        takeaway:"No new data, but the underlying signal is reassuring: Vertex's potential t1d cure candidate, zimislecel, remains on schedule for a near-term regulatory filing."
+        summary:"VRTX rose ~7.0% amid steady analyst support. No single new company catalyst this week. Vertex has said its pivotal zimislecel (islet-cell therapy) trial remains on track to complete enrollment this year, keeping the company on pace for a 2026 regulatory submission.",
+        takeaway:"No new data, but the underlying signal is reassuring, as Vertex's zimislecel remains on schedule for a near-term regulatory filing."
       },
       {
         side:"loser",
@@ -71,8 +70,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Craters −58.0% / Offering Filing Sparks Dilution Fears",
-        summary:"CELZ collapsed ~58% after the company filed, then amended, an S-1 registration statement for a new stock offering, a move the market read as a sign of heavy dilution ahead. Trading volume ran roughly 6x normal. The selloff is a capital-structure story, unrelated to the company's CELZ-201 program for recent-onset t1d.",
-        takeaway:"Steep dilution risk, not pipeline news, drove the drop. CELZ-201, the company's early-stage t1d cell therapy, is unchanged, but a heavily diluted share count would shrink existing shareholders' stake in any future success."
+        summary:"CELZ collapsed after the company filed a common stock offering registration. The company subsequently withdrew the offering statement. The move was read as a sign of heavy dilution ahead. Trading volume ran roughly 6x normal.",
+        takeaway:"No immediate T1D impact. CELZ-201, the company's early-stage t1d cell therapy, is unchanged. Volatility was related to dilution concerns, and a heavily diluted share count would shrink existing shareholders' stake in any future success."
       },
       {
         side:"loser",
@@ -81,8 +80,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −16.7% / Thin-Volume Pullback, No Fresh News",
-        summary:"SEOVF fell ~16.7% on light trading, with volume below its normal level and no new company news. As an illiquid penny stock, small trades can move the price sharply in either direction. Sernova's Cell Pouch bio-hybrid organ program for t1d is unchanged.",
-        takeaway:"No impact. The Cell Pouch program for t1d is unchanged; this drop is thin-volume noise, not pipeline news."
+        summary:"SEOVF sold off with light trading and volume below its normal level. No new company news. As an illiquid penny stock, small trades can move the price sharply in either direction.",
+        takeaway:"No impact. The Cell Pouch T1D program is unchanged; this drop is thin-volume noise, not pipeline news."
       },
       {
         side:"loser",
@@ -91,8 +90,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −14.8% / Continued Giveback From Earlier Run-Up",
-        summary:"FLUI.ST dropped ~14.8% on light volume with no new company news, extending its pullback from a huge earlier rally (still up 182% YTD). This looks like ordinary profit-taking in a thinly traded stock. Fluicell's tissue-engineering t1d work is unchanged.",
-        takeaway:"No impact. Fluicell's t1d tissue-engineering program is unchanged; the drop is profit-taking, not pipeline news."
+        summary:"FLUI.ST dropped on light volume with no new company news, extending its pullback from a huge earlier rally (still up 182% YTD). This looks like ordinary profit-taking in a thinly traded stock.",
+        takeaway:"No impact. Fluicell's T1D tissue-engineering program is unchanged; the drop is profit-taking, not pipeline news."
       }
     ]
   },
