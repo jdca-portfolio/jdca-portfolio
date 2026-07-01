@@ -40,8 +40,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Jumps +11.6% / Diabetes and Obesity Drug Sales Send Shares to New Highs",
-        summary:"LLY gained ~11.6% and hit fresh all-time highs after reporting blowout sales growth for Mounjaro (T2D treatment) and Zepbound (GLP-1) and raising full-year revenue guidance. The rally reflects confidence in Lilly's broader metabolic-disease franchise, not any new T1D-specific news.",
-        takeaway:"No direct T1D pipeline impact. The gain is driven by Lilly's obesity and T2D franchise. No change in outlook for their Practical Cure efforts."
+        summary:"LLY hit fresh all-time highs after reporting blowout sales growth for Mounjaro (T2D treatment) and Zepbound (GLP-1) and raising full-year revenue guidance.",
+        takeaway:"The rally reflects confidence in Lilly's broader metabolic-disease franchise, not any new T1D-specific news. No change in outlook for their Practical Cure efforts."
       },
       {
         side:"gainer",
@@ -50,7 +50,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Rises +7.1% / Quiet Technical Bounce, No Company News",
-        summary:"LCTX climbed ~7.1% on ordinary volume with no company-specific news, continuing a tight, catalyst-free trading range. The move looks technical rather than fundamental.",
+        summary:"LCTX climbed with ordinary volume with no company-specific news, continuing a tight, catalyst-free trading range. The move looks technical rather than fundamental.",
         takeaway:"No impact on ILT1, Lineage's preclinical T1D cell-transplant candidate. The gain reflects sentiment, not new data."
       },
       {
@@ -60,7 +60,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Gains +7.0% / Broad Strength as Zimislecel Phase 3 Stays on Track",
-        summary:"VRTX rose ~7.0% amid steady analyst support. No single new company catalyst this week. Vertex has said its pivotal zimislecel (islet-cell therapy) trial remains on track to complete enrollment this year, keeping the company on pace for a 2026 regulatory submission.",
+        summary:"VRTX rose amid steady analyst support. No single new company catalyst this week. Vertex stated its zimislecel (islet-cell therapy) trial remains on track to complete enrollment this year and on pace for 2026 regulatory submission.",
         takeaway:"No new data, but the underlying signal is reassuring, as Vertex's zimislecel remains on schedule for a near-term regulatory filing."
       },
       {
