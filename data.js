@@ -71,7 +71,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Craters −58.0% / Offering Filing Sparks Dilution Fears",
         summary:"CELZ collapsed after the company filed a common stock offering registration. The company subsequently withdrew the offering statement. The move was read as a sign of heavy dilution ahead. Trading volume ran roughly 6x normal.",
-        takeaway:"No immediate T1D impact. CELZ-201, the company's early-stage t1d cell therapy, is unchanged. Volatility was related to dilution concerns, which would shrink existing shareholders' stake in any future success."
+        takeaway:"No immediate T1D impact. CELZ-201, the company's early-stage T1D cell therapy, is unchanged. Volatility was related to dilution concerns, which would shrink existing shareholders' stake in any future success."
       },
       {
         side:"loser",
