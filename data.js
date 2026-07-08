@@ -39,8 +39,8 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Rebounds +41.9% / Recovers Ground After Offering Withdrawal",
-        summary:"CELZ clawed back on the prior week's dilution-fear crash on very heavy volume (~19x normal). The company withdrew its earlier stock-offering filing, instead raising about $4.5M through a smaller warrant-inducement deal, and issued a mid-year update highlighting progress in its lower-back-pain and osteoarthritis programs.",
-        takeaway:"No new data on CELZ-201, the company's early-stage T1D cell therapy (built on the same AlloStem platform as its back-pain and OA work). This is a relief-rally snapback from an overcorrection, not new clinical results. The smaller, less dilutive financing route reassured investors more than the science did."
+        summary:"CELZ announced that it raised raised about $4.5M through a warrant deal. The stock reacted sharply and rallied on heavy volume. issued a mid-year update highlighting progress in its lower-back-pain and osteoarthritis programs.",
+        takeaway:"No new data on CELZ-201, the company's early-stage T1D cell therapy (built on the same AlloStem platform as its back-pain and osteoarthritis work)."
       },
       {
         side:"gainer",
@@ -50,7 +50,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Jumps +18.9% / Another Thin-Volume Rally, No Fresh News",
         summary:"FLUI.ST rallied again on light volume. Aside from recent additions to their board, no new company announcement this week. Extending its 2026 run (now up 253% YTD).",
-        takeaway:"No impact this week. Momentum and thin-float volatility are pushing the movement, not new data. The Nexocyte tissue-engineering T1D program is unchanged. Although the 2026 board refresh (Niklas Frisk as chairman, AstraZeneca's Karin Jennbacken, ex-Recipharm/Octapharma's Alex Scheepers) adds regulatory and institutional weight to the diabetes program."
+        takeaway:"No impact this week. Momentum and thin-float volatility are pushing the movement, not new data. The Nexocyte tissue-engineering T1D program is unchanged."
       },
       {
         side:"gainer",
