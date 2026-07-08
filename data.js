@@ -39,7 +39,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Rebounds +41.9% / Recovers Ground After Offering Withdrawal",
-        summary:"CELZ announced that it raised raised about $4.5M through a warrant deal. The stock reacted sharply and rallied on heavy volume. issued a mid-year update highlighting progress in its lower-back-pain and osteoarthritis programs.",
+        summary:"CELZ announced that it raised raised about $4.5M through a warrant deal. The stock reacted sharply and rallied on heavy volume. The company issued a mid-year update highlighting progress in its lower-back-pain and osteoarthritis programs.",
         takeaway:"No new data on CELZ-201, the company's early-stage T1D cell therapy (built on the same AlloStem platform as its back-pain and osteoarthritis work)."
       },
       {
@@ -49,7 +49,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +18.9% / Another Thin-Volume Rally, No Fresh News",
-        summary:"FLUI.ST rallied again on light volume. Aside from recent additions to their board, no new company announcement this week. Extending its 2026 run (now up 253% YTD).",
+        summary:"Fluicell rallied again on light volume. Aside from recent additions to their board, no new company announcement this week. The strong 2026 run is now up 253% YTD.",
         takeaway:"No impact this week. Momentum and thin-float volatility are pushing the movement, not new data. The Nexocyte tissue-engineering T1D program is unchanged."
       },
       {
