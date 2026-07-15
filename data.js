@@ -1,7 +1,6 @@
-// ── PASTE THIS BLOCK IMMEDIATELY AFTER "const WEEKS = [" ──────────────────
-// (i.e. as the new first entry, right before the "Week of 07/06/2026" object)
 
-  {
+const NEW_WEEK_ENTRY = [
+{
     label: "Week of 07/13/2026",
     asOf:"07/13/2026",
     stats: {
@@ -51,7 +50,7 @@
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Rises +3.3% / New Approvals, but Not in Diabetes",
-        summary:"SNY gained ~3.3% after the FDA approved an on-body injector version of its cancer drug Sarclisa, and after positive late-stage results for Nexviazyme in a rare infant disease. Neither update touches Sanofi's diabetes business.",
+        summary:"SNY gained ~3.3% after the FDA approved a needle-free, on-body injector version of its cancer drug Sarclisa, and after positive late-stage results for Nexviazyme in a rare infant disease. Neither update touches Sanofi's diabetes business.",
         takeaway:"No impact. Both wins are in oncology and rare disease, not Sanofi's T1D drug Tzield (teplizumab)."
       },
       {
@@ -71,7 +70,7 @@
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Falls −25.7% / Giving Back Last Week's Rebound, No Fresh News",
-        summary:"CELZ dropped ~25.7% with no new company-specific news, unwinding last week's rally that followed a warrant-exercise financing deal. Thinly-traded penny stocks like this one commonly experience significant swings in both directions.",
+        summary:"CELZ dropped ~25.7% with no new company-specific news, unwinding most of last week's rally that followed a warrant-exercise financing deal. Thinly-traded penny stocks like this one commonly swing hard in both directions.",
         takeaway:"No impact. CELZ-201, the company's early-stage T1D cell therapy, is unchanged. This is normal volatility, not new pipeline news."
       },
       {
@@ -81,8 +80,8 @@
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Falls −18.2% / Pullback After a Big Casgevy-Driven Run",
-        summary:"CRSP fell ~18.2%, giving back gains from the past two weeks' rally that followed an FDA pediatric-approval expansion for Casgevy. No new negative news drove this week's move.",
-        takeaway:"No impact. This looks like profit-taking after a big run, not a change to CRSP's T1D program, which continues unaffected."
+        summary:"CRSP fell ~18.2%, giving back much of the past two weeks' rally that followed an FDA pediatric-approval expansion for Casgevy and a bullish Wall Street upgrade. No new negative news drove this week's move.",
+        takeaway:"No impact. This looks like profit-taking after a big run, not a change to CRSP's T1D program (its hypoimmune stem-cell islet therapy), which continues unaffected."
       },
       {
         side:"loser",
@@ -96,3 +95,6 @@
       }
     ]
   },
+];
+
+module.exports = NEW_WEEK_ENTRY;
