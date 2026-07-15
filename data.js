@@ -50,7 +50,7 @@ const WEEKS = [
         penny: false,
         sentiment:"Neutral",
         topic:"Stock Gains +3.3% / Quiet Ahead of Q2 Earnings",
-        summary:"SNY drifted higher with no major company-specific news this week. The company confirmed its Q2 2026 results will be released on July 30.",
+        summary:"SNY gained ~3.3% after the FDA approved an on-body injector version of its cancer drug Sarclisa, and after positive late-stage results for Nexviazyme in a rare infant disease. Neither update touches Sanofi's diabetes business. The company confirmed its Q2 2026 results will be released on July 30.",
         takeaway:"No impact. Sanofi's Tzield remains the only approved therapy to delay T1D onset; nothing new changed on that front this week."
       },
       {
@@ -60,7 +60,7 @@ const WEEKS = [
         penny: true,
         sentiment:"Neutral",
         topic:"Stock Jumps +10.4% / Thin-Volume Rally, No Fresh News",
-        summary:"NXTCL.ST rallied on light volume with no new press release this week from this niche Nasdaq First North microcap.",
+        summary:"NXTCL.ST gained ~10.4% this week with no specific company announcement. As one of the portfolio's smallest, thinnest-traded stocks, moves like this can happen without any significant news behind them.",
         takeaway:"No impact. NextCell's ProTrans T1D program is unchanged, with pediatric Phase 2 data still expected later this year. This week's pop looks like ordinary micro-cap noise."
       },
       {
@@ -80,8 +80,8 @@ const WEEKS = [
         penny: false,
         sentiment:"Positive",
         topic:"Stock Falls −18.2% / Investors Focus on Losses Despite Bullish Analyst Notes",
-        summary:"CRSP gave back its recent rally as investors weighed the company's continued heavy losses against a string of reaffirmed Buy ratings and an expanded pediatric label for CASGEVY.",
-        takeaway:"No impact. The pullback centers on CASGEVY's path to profitability, not CRSP's T1D program (CTX211), which wasn't part of this week's news."
+        summary:"CRSP fell ~18.2%, giving its rally over the past two weeks that followed an FDA pediatric-approval expansion for Casgevy. No new negative news drove this week's move.",
+        takeaway:"No impact. The pullback centers on CASGEVY's path to profitability, not CRSP's T1D program, which wasn't part of this week's news."
       },
       {
         side:"loser",
@@ -91,7 +91,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls −25.7% / Giving Back Last Week's Warrant-Driven Spike",
         summary:"CELZ pulled back sharply after last week's warrant-exercise rally, with no new company-specific news this week.",
-        takeaway:"No impact. CELZ-201 (Olastrocel), the company's early T1D cell therapy candidate, is unchanged. This week's drop mostly unwinds last week's speculative pop."
+        takeaway:"No impact. CELZ-201, the company's early T1D cell therapy candidate, is unchanged. This week's drop mostly unwinds last week's speculative pop."
       }
     ]
   },
