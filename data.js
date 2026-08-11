@@ -39,9 +39,9 @@ const WEEKS = [
         ticker:"CELZ",
         penny: true,
         sentiment:"Neutral",
-        topic:"Stock Gains +83.4% / Explosive Rally on Heavy Volume due to Notice of Allowance for a Patent Application",
-        summary:"CELZ rocketed higher this week on volume roughly 13x its 100-day average, due to the U.S. Patent Allowance",
-        takeaway:"Moderate potential impact. The Notice of Allowance is in regards to an immune tolerance technology that will may be utilized in the CELZ-201 program for new onset beta cell preservation."
+        topic:"Stock Gains +83.4% / Explosive Rally on Heavy Volume due to a Notice of Allowance for a U.S. Patent Application.",
+        summary:"CELZ rocketed higher this week on volume roughly 13x its 100-day average, due to news regarding the Notice of Allowance.",
+        takeaway:"Moderate potential impact. The Notice of Allowance is related to an immune tolerance technology that will may be utilized in the CELZ-201 program for new onset beta cell preservation."
       },
       {
         side:"gainer",
