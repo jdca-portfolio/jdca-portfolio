@@ -41,7 +41,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Gains +83.4% / Explosive Rally on Heavy Volume due to a Notice of Allowance for a U.S. Patent Application.",
         summary:"CELZ rocketed higher this week on volume roughly 13x its 100-day average, due to news regarding the Notice of Allowance of a new patent from the U.S. Patent Office. The patent is related to an immune tolerance technology that may be utilized in the CELZ-201 product for new onset beta cell preservation.",
-        takeaway:"Moderate potential impact. While not part of a practical cure program, steps toward safe and effective immunomodulation are a strong positive development."
+        takeaway:"Moderate potential impact. While not part of a complete practical cure, steps toward safe and effective immunomodulation are a strong positive development."
       },
       {
         side:"gainer",
@@ -71,7 +71,7 @@ const WEEKS = [
         sentiment:"Neutral",
         topic:"Stock Falls −14.2% / Weakness Continues, No Fresh Clinical News",
         summary:"Sernova slipped further this week on thin trading, with no new clinical or regulatory announcements.",
-        takeaway:"No impact. Sernova's Cell Pouch System for T1D remains unchanged; the drop looks like routine micro-cap volatility rather than a pipeline setback."
+        takeaway:"No impact. Sernova's Cell Pouch System for T1D remains unchanged. The drop looks like routine micro-cap volatility rather than a pipeline setback."
       },
       {
         side:"loser",
@@ -81,7 +81,7 @@ const WEEKS = [
         sentiment:"Negative",
         topic:"Stock Falls −11.8% / Continued Volatility, No Fresh News",
         summary:"GNPX declined again this week with no new company announcements, extending its pattern of extreme swings since July's reverse stock split.",
-        takeaway:"No impact. Genprex's diabetes gene therapy program, GPX-002, wasn't part of this week's news; the move looks like continued thin-float volatility rather than a pipeline setback."
+        takeaway:"No impact. Genprex's diabetes gene therapy program, GPX-002, wasn't in this week's news. The move looks like continued thin-float volatility rather than a pipeline setback."
       },
       {
         side:"loser",
@@ -91,7 +91,7 @@ const WEEKS = [
         sentiment:"Positive",
         topic:"Stock Falls −5.0% / Pullback After Recent Strength, No Fresh News",
         summary:"NCEL gave back some of its recent gains this week with no new company-specific announcements.",
-        takeaway:"No impact. NCEL-101's regulatory collaboration with Eledon's tegoprubart is unchanged; this week's move looks like routine profit-taking after a strong year-to-date run."
+        takeaway:"No impact. NCEL-101's regulatory collaboration with Eledon's tegoprubart is unchanged. This week's move looks like routine profit-taking after a strong year-to-date run."
       }
     ]
   },
